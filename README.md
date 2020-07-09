@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Under construction](https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif)
 <!--
 **tamaraundesser/tamaraundesser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
